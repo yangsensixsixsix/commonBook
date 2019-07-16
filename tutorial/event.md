@@ -6,6 +6,7 @@
     <view bindtap="Event">
         clickMe
     </view>
+    
 ```
 
 ##向事件处理程序传递参数

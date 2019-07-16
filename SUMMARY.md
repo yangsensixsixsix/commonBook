@@ -1,12 +1,13 @@
 # Summary
 
 * [简介](README.md)
-* [教程](tutorial/tutorial.md)
+* 教程
     * [项目目录结构](tutorial/tutorial.md#项目目录结构)
     * [页面](tutorial/tutorial.md#页面)
     * [事件处理](tutorial/event.md)
     * [条件渲染](tutorial/condition.md)
     * [列表渲染](tutorial/list.md)
+    * [开发前注意](tutorial/notice.md)
 * 组件库
     * 视图容器
         * [view](components/viewContaine/view.md)
@@ -19,7 +20,8 @@
     * 媒体组件
         * [image](components/media/image.md)
 * API
-    * [网络](API/API.md)
+    * [更新视图](API/API.md#更新视图)
+    * 网络
         * [发起请求](API/API.md#发起请求)
         * [上传下载](API/API.md#上传下载)
     * 媒体
@@ -32,4 +34,7 @@
         * [拨打电话](API/API.md#拨打电话)
     * 界面
         * [交互反馈](API/API.md#交互反馈)
+    * [导航](API/API.md#导航)
+    * [滑块](API/API.md#滑块)
+    * [组件通信](API/API.md#组件通信)
 
